@@ -49,6 +49,3 @@ Experienced software developer with 2+ years of experience in developing and imp
 - Stock Market Trading
 - Travelling
 - Coding
-
-## REFERENCES
-Available upon request.
