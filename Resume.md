@@ -15,7 +15,7 @@ Experienced software developer with 2+ years of experience in developing and imp
 
 ## TECHNICAL SKILLS
 - Programming Languages: JavaScript, TypeScript
-- Frameworks/Libraries: React JS, Redux, Next JS
+- Frameworks/Libraries: React JS, Redux, Next JS, Deckgl
 - Testing Tool/Libraries: Jest, Enzyme, Chai, Mocha, Sinon
 - Other Dev Tools: Git, Bitbucket, Jira
 
